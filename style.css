@@ -37,4 +37,15 @@ box-shadow: 0 2p 2px 0 rgba(0, 0, 0, 0.1);
 
 .container {
     display: flex;
+    place-items: center;
+    padding: 10px;
+    padding-right: 10px;
 }
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins, sans-serif';
+}
+
