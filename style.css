@@ -1,15 +1,14 @@
 .card {
-  width: 400px;
+  width: 250px;
   margin: 10px;
   background-color: bisque;
   border: solid 1px;
   box-shadow: 0 2p 2px 0 rgba(0, 0, 0, 0.1);
 }
 
-.placeholder-for-image{
-  width: 400px;
+img{
+  width: 250px;
   height: 250px;
-  background-color: red;
 }
 
 
@@ -43,3 +42,7 @@
 h1 {
   margin-bottom: 5%;
 }
+
+@media (max-width:450px){
+
+ 
